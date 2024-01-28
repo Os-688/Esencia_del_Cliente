@@ -3,20 +3,16 @@
 </p>
 
 
-<p align="center">
-  <img src="Imagenes/Grafica7.PNG" alt="Grafica de cloropletas">
-</p>
+## <p align="center">
+## <img src="Imagenes/Grafica7.PNG" alt="Grafica de cloropletas">
+##</p>
 
 ## Descripción:
 
 Esencia del cliente es un proyecto de machine learning sobre la optimizacion y creacion de distintos modelos, revisando y eljiendo los mejores parametros e hiperparametros. 
 Esta relacionado con el analisis de clientes de una linea de supemercados.
 
-![Grafica de barras de carreras](Imagenes/Grafica6.PNG)
-
-## Instrucciones de Uso
-
-Para ejecutar el proyecto, se recomienda ejecutar el notebook en Google Colab. Si optas por otro método, asegúrate de descargar todas las librerías usadas y luego importarlas. Con esto, podrás ejecutar todas las celdas de código.
+![Modelos de distinto tipo de datos con las mejores variables y hiperparametros](Imagenes/img_descripcion.PNG)
 
 ## Características Principales
 
@@ -33,17 +29,19 @@ Para ejecutar el proyecto, se recomienda ejecutar el notebook en Google Colab. S
 - Funciones con bucles y GridSearchCv para obtener los mejores hiperparametros en arboles de decision, bosques de decision y SVC.
 - Tratamiento con predicciones del modelo.
 
-![Grafica de barras horizontales](Imagenes/Grafica1.PNG)
+![Observaciones e hipotesis](Imagenes/img_2.PNG)
 
-![Grafica de calor](Imagenes/Grafica5.PNG)
+![Grafica de dispersion para descripcion clusters](Imagenes/img-3.PNG)
 
-![Grafica con sublienzo](Imagenes/Grafica4.PNG)
+![Descripciones clusters](Imagenes/img_4.PNG)
 
-![Graficas de lineas](Imagenes/Grafica3.PNG)
+![Grafica de correlaciones de variables categoricas](Imagenes/img_5.PNG)
 
-![Graficas de lineas](Imagenes/Grafica2.PNG)
+![Mejores modelos de la validacion cruzada](Imagenes/img_6.PNG)
 
+## Instrucciones de Uso
 
+Para ejecutar el proyecto, se recomienda ejecutar el notebook en Google Colab. Si optas por otro método, asegúrate de descargar todas las librerías usadas y luego importarlas. Con esto, podrás ejecutar todas las celdas de código.
 
 
 ## Requisitos Previos
@@ -86,7 +84,7 @@ Para instalar el proyecto, sigue la secuencia de ejecución en Google Colab, la 
 ## Ejemplos de Uso
 
 La ejecucion de las celdas es lineal. Podras ver todos los graficos y codigo en funcionamiento siguiendo la linea de ejecución.
-![Ejemplo visual del texto de arriba](Imagenes/linea_ejecucion.PNG)
+![Orden de ejecucion de las celdas](Imagenes/img_orden_ejecucion.PNG)
 
 ## Autor
 
@@ -98,4 +96,4 @@ Agradezco a scikit-learn por una herramienta eficaz para aprender y efectuar Mod
 
 ## Estado del Proyecto
 
-Versión 1.0 estable. Última actualización: 04/12/2023.
+Versión 1.0 estable. Última actualización: 28/01/2024.

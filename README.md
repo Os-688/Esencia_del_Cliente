@@ -54,15 +54,24 @@ Para ejecutar el proyecto, se recomienda ejecutar el notebook en Google Colab. S
 ### Otros Entornos
 1. Instala las siguientes bibliotecas:
    
-   - Pandas
-   - NumPy
-   - Matplotlib
-   - fuzzywuzzy
-   - python-Levenshtein
-   - Requests
-   - seaborn
-   - plotly.express
-   - bar_chart_race
+  - pandas
+  - numpy
+  - matplotlib
+     - matplotlib.pyplot 
+  - seaborn
+  - scikit-learn
+     - sklearn.tree.DecisionTreeClassifier
+     - sklearn.svm.SVC
+     - sklearn.ensemble.RandomForestClassifier
+     - sklearn.cluster.KMeans
+     - sklearn.metrics.silhouette_score
+     - sklearn.metrics.davies_bouldin_score
+     - sklearn.metrics.calinski_harabasz_score
+     - sklearn.model_selection.train_test_split
+     - sklearn.preprocessing.OneHotEncoder
+     - sklearn.preprocessing.StandardScaler
+     - sklearn.model_selection.cross_validate
+     - sklearn.model_selection.GridSearchCV
 
 
 ```python
@@ -91,7 +100,7 @@ La ejecucion de las celdas es lineal. Podras ver todos los graficos y codigo en 
 
 ## Agradecimientos
 
-Agradezco a polygon por proporcionar una herramienta para obtener datasets.
+Agradezco a scikit-learn.
 
 ## Estado del Proyecto
 

@@ -3,9 +3,7 @@
 </p>
 
 
-## <p align="center">
-## <img src="Imagenes/Grafica7.PNG" alt="Grafica de cloropletas">
-##</p>
+## <p align="center"><img src="Imagenes/Grafica7.PNG" alt=""></p>
 
 ## Descripción:
 
@@ -92,7 +90,7 @@ La ejecucion de las celdas es lineal. Podras ver todos los graficos y codigo en 
 
 ## Agradecimientos
 
-Agradezco a scikit-learn por una herramienta eficaz para aprender y efectuar Modelos de aprendizaje.
+Agradezco a scikit-learn por una herramienta eficaz para aprender y efectuar Modelos de aprendizaje. Tambien agradezco a Alura Latam por darme este nuevo desafio.
 
 ## Estado del Proyecto
 

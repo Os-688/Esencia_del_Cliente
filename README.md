@@ -20,17 +20,18 @@ Para ejecutar el proyecto, se recomienda ejecutar el notebook en Google Colab. S
 
 ## Características Principales
 
-- Graficas de carrera de barras en video y manual.
-- Grafica de mapa de cloropletas.
-- Graficas de dispersion de burbujas.
-- Graficas de barras apiladas y agrupadas.
-- Graficas de barras horizontales.
-- Sublienzos y ajustes extra como simbologias, lineas, textos.
-- API Polygon.io (Recoleccion de historico de empresas)
-- Biblioteca fuzzywuzzy (Busqueda de coincidencias y puntajes en listas)
-- Biblioteca re (Busqueda de coincidencias)
-- Blblioteca protly.express (Realizacion de grafica de carreras)
-- Biblioteca bar_chart_race (Realizacion de grafica de carreras)
+- Graficas de calor y correlacion para la eleccion de las mejores variables.
+- Traduccion del dataframe.
+- Graficas enfocadas en encontrar caracteristicas de los clientes(datos).
+- Observaciones e Hipotesis.
+- Eleccion de variables y prueba para elejir las mejores columnas(Variables) con diferentes tipos de datos(categorico ordinal,nominal y numerico).
+- Modelo de clusterizacion Kmeans con pruebas de silhouette, davies_bouldin, calinski_harabasz.
+- Prueba de integridad.
+- Modelos con los tres tipos de datos mencionados con el cumplimiento de todas las pruebas anteriores.
+- OneHotEncoding, Estandarizacion y dummies.
+- Descripcion de clusters y recomendaciones a efectuar.
+- Funciones con bucles y GridSearchCv para obtener los mejores hiperparametros en arboles de decision, bosques de decision y SVC.
+- Tratamiento con predicciones del modelo.
 
 ![Grafica de barras horizontales](Imagenes/Grafica1.PNG)
 

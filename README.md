@@ -75,14 +75,8 @@ Para ejecutar el proyecto, se recomienda ejecutar el notebook en Google Colab. S
 
 
 ```python
-pip install pandas
-pip install requests
-pip install fuzzywuzzy
-pip install seaborn
-pip install matplotlib
-pip install plotly
-pip install bar_chart_race
-pip install numpy
+pip install pandas numpy matplotlib seaborn scikit-learn
+
 ```
 
 ## Instalación
@@ -100,7 +94,7 @@ La ejecucion de las celdas es lineal. Podras ver todos los graficos y codigo en 
 
 ## Agradecimientos
 
-Agradezco a scikit-learn.
+Agradezco a scikit-learn por una herramienta eficaz para aprender y efectuar Modelos de aprendizaje.
 
 ## Estado del Proyecto
 

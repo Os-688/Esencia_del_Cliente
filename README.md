@@ -3,7 +3,7 @@
 </p>
 
 
-## <p align="center"><img src="Imagenes/Grafica7.PNG" alt=""></p>
+<p align="center"><img src="Imagenes/challenge2.png" alt="insignia del proyecto"></p>
 
 ## Descripción:
 

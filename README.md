@@ -1,5 +1,5 @@
 <p align="center">
-   <h1 align="center"> Mi proyecto Esencia del Cliente (Desafio).</h1>
+   <h1 align="center"> Proyecto Esencia del Cliente parte I (Desafio).</h1>
 </p>
   
 <p align="center"><img src="Imagenes/challenge2.png" alt="insignia del proyecto"></p>

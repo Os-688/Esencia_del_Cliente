@@ -6,7 +6,7 @@
 
 ## Descripción:
 
-Esencia del cliente parte I trata del analisis de la linea de supermercados Food Mart (CFM) del dataset de kaggle [dataset](https://colab.research.google.com/). Los datos son analizados de manera general, luego se crea un modelo con las mejores variables del set de datos y los mejores hiperparametros. Posteriormente se realizan pruebas de validacion para asegurar que el modelo de clusterizacion sea estable. Al finalizar se predijeron los datos del dataset con los del modelo de clusterizacion; se unieron a un mismo dataframe para realizar un analisis de los clusters y describir cada cluster con recomendaciones de acciones a realizar por cada uno de estos clusters. 
+Esencia del cliente es el análisis de la linea de supermercados Food Mart (CFM) del dataset de kaggle. Los datos son analizados de manera general, luego se genera un modelo con las mejores variables del dataset y los mejores hiperparametros. Posteriormente se realizan pruebas de validación para asegurar que el modelo de clusterización sea estable. Al finalizar se predijeron los datos iniciales con los del modelo y se unieron los resultados con los datos iniciales a un mismo Dataframe; para concluir realizando un analisis de los clusters y describir cada cluster con recomendaciones de acciones a ejecutar por cada uno.
 
 
 ![Modelos de distinto tipo de datos con las mejores variables y hiperparametros](Imagenes/img_descripcion.PNG)
